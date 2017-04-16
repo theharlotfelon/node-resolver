@@ -1,5 +1,6 @@
 {
   "name": "node-resolver",
+
   "version": "1.0.2",
   "description": "Atom plugin to jump to a module's file from its require statement",
   "main": "index.js",
@@ -25,6 +26,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
+
     "url": "git://github.com/theharlotfelon/node-resolver.git"
   },
   "keywords": [
@@ -35,6 +37,7 @@
     "file",
     "navigation"
   ],
+
   "homepage": "https://github.com/theharlotfelon/node-resolver",
   "bugs": {
     "url": "https://github.com/theharlotfelon/node-resolver/issues"
